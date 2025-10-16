@@ -1,4 +1,4 @@
 ---
-title: Welcome to my website
+index title: index title mini
 ---
 
